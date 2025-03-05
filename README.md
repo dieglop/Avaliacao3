@@ -47,6 +47,9 @@ O padrão **Template Method** foi utilizado para estabelecer uma estrutura comum
 4. O processo continua até que uma classe de regra concreta processe a solicitação e execute as operações necessárias.
 5. Caso haja métodos comuns entre as classes de regra, o **Template Method** centraliza essas operações em uma estrutura compartilhada.
 
+
+A execução deve ser feita a partir da classe Simulacao.
+
 ## Conclusão
 
 A combinação dos padrões **Chain of Responsibility** e **Template Method** permitiu criar uma solução flexível e escalável para o processamento de eventos com diferentes prioridades e datas. O código ficou mais modular, e o uso de uma cadeia de responsabilidade evitou o crescimento descontrolado de estruturas condicionais, enquanto o **Template Method** centralizou comportamentos comuns entre as classes de regra.
