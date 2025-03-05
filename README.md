@@ -48,7 +48,7 @@ O padrão **Template Method** foi utilizado para estabelecer uma estrutura comum
 5. Caso haja métodos comuns entre as classes de regra, o **Template Method** centraliza essas operações em uma estrutura compartilhada.
 
 
-A execução deve ser feita a partir da classe Simulacao.
+***A execução deve ser feita a partir da classe Simulacao.***
 
 ## Conclusão
 
